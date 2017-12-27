@@ -20,6 +20,7 @@ Node.js express Gulp-Webpack project
   - del
     
 - 작업 완료 사항
+
   - [x] Task, Watch 작성
   - [x] 소스/빌드 디렉토리 분리
   - [x] 서버사이드 ES6 complie 및 minify
