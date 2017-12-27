@@ -20,11 +20,10 @@ Node.js express Gulp-Webpack project
   - del
     
 - 작업 완료 사항
-
   - [x] Task, Watch 작성
   - [x] 소스/빌드 디렉토리 분리
-  - [x] 서버사이드 ES6 complie 및 minify
-  - [x] 서버사이드 코드 변경 탐지시 서버 재시작
-  - [x] 클라이언트 코드 ES6 complie 및 minify
-  - [x] 클라이언트 코드 변경 탐지시 브라우저 새로고침
-  - [ ] SASS or SCSS 적용 및 컴파일
+  - [x] 서버사이드 ES6 complie 및 minify
+  - [x] 서버사이드 코드 변경 탐지시 서버 재시작
+  - [x] 클라이언트 코드 ES6 complie 및 minify
+  - [x] 클라이언트 코드 변경 탐지시 브라우저 새로고침
+  - [ ] SASS or SCSS 적용 및 컴파일
