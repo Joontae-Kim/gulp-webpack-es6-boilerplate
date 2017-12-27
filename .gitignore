@@ -33,6 +33,8 @@ bower_components
 build/Release
 
 # Dependency directories
+server/
+views/
 node_modules/
 jspm_packages/
 
